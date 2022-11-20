@@ -9855,11 +9855,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\k-sab\\OneDrive - Renton Technical College\\CSI-293 Capstone\\FlowerDb\\SFlowerApp\\SFlowerApp\\SapphireApp.csproj",
+      "projectUniqueName": "C:\\Users\\k-sab\\OneDrive\\Desktop\\SFlowerApp\\SFlowerApp\\SFlowerApp\\SapphireApp.csproj",
       "projectName": "SapphireApp",
-      "projectPath": "C:\\Users\\k-sab\\OneDrive - Renton Technical College\\CSI-293 Capstone\\FlowerDb\\SFlowerApp\\SFlowerApp\\SapphireApp.csproj",
+      "projectPath": "C:\\Users\\k-sab\\OneDrive\\Desktop\\SFlowerApp\\SFlowerApp\\SFlowerApp\\SapphireApp.csproj",
       "packagesPath": "C:\\Users\\k-sab\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\k-sab\\OneDrive - Renton Technical College\\CSI-293 Capstone\\FlowerDb\\SFlowerApp\\SFlowerApp\\obj\\",
+      "outputPath": "C:\\Users\\k-sab\\OneDrive\\Desktop\\SFlowerApp\\SFlowerApp\\SFlowerApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\k-sab\\AppData\\Roaming\\NuGet\\NuGet.Config",
